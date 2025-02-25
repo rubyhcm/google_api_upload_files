@@ -75,3 +75,5 @@ gem 'sidekiq'
 gem 'foreman'
 
 gem "activerecord-import"
+
+gem "google-apis-drive_v3", "~> 0.58.0"
