@@ -39,3 +39,7 @@
   - After creating the Service Account, click on it to open its details.
   - Go to the "Keys" tab and click "Add Key" > "Create New Key."
   - Choose JSON as the key type and download the key file.
+
+#### Note
+
+You can using `fast_upload_google_drive.rb` to upload/delete files
